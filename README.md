@@ -17,7 +17,6 @@ A person with problem-solving approach, dedicated to working with excellent team
 
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shambhavichaukiyal&show_icons=true&locale=en&layout=compact" alt="shambhavichaukiyal" /></p>
 
- 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanisharathi&show_icons=true&locale=en" alt="Tanisha Rathi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shambhavichaukiyal&show_icons=true&locale=en" alt="shambhavichaukiyal" /></p>
