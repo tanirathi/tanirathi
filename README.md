@@ -97,14 +97,6 @@ A person with a problem-solving approach, dedicated to working with excellent te
          height="40"/>
   </a>
 
-  <!-- React -->
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-         alt="React"
-         width="40"
-         height="40"/>
-  </a>
-
 </p>
 
 
